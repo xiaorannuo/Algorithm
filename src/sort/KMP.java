@@ -1,3 +1,5 @@
+package sort;
+
 public class KMP {
     //获取next数组
     public  static int[] getNextArray(char[] str2)

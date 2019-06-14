@@ -1,3 +1,5 @@
+package sort;
+
 public class HeapSort {
     public static void heapsort(int[] arr){
         if(arr ==null||arr.length<2)
