@@ -3,7 +3,7 @@
 
 [heapsort](src/sort/HeapSort.java)
 
-[Quicksort](src/sort/QuickSort.java)
+[Quicksort and patition](src/sort/QuickSort.java)
 
 [moreThanhalf](src/sort/moreThanhalf.java)
 
