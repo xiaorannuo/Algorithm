@@ -14,3 +14,6 @@
 
 ## leetcode top100
 [LRUcache](src/leetcode_top100/LRUCache.java)
+
+## 剑指offer top100
+[3-9](/src/剑指offer/Solution.java)
