@@ -17,3 +17,7 @@
 
 ## 剑指offer top100
 [3-9](/src/剑指offer/Solution.java)
+
+[10-19](/src/剑指offer/Solution2.java)
+
+[20-29](/src/剑指offer/Solution3.java)
