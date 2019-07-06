@@ -22,6 +22,8 @@
 
 [20-29](/src/剑指offer/Solution3.java)
 
+[30-39](/src/剑指offer/Solution4.java)
+
 ## 复习
 
 37 [序列化二叉树](https://www.nowcoder.com/practice/cf7e25aa97c04cc1a68c8f040e71fb84?tpId=13&tqId=11214&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
